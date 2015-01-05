@@ -131,9 +131,9 @@ static const uint16_t SHOWLOW_BG_MGDL = 40;
 static const uint16_t HYPOLOW_BG_MGDL = 55;
 static const uint16_t BIGLOW_BG_MGDL = 60;
 static const uint16_t MIDLOW_BG_MGDL = 70;
-uint16_t LOW_BG_MGDL = 80;
+uint16_t LOW_BG_MGDL = 73;
 
-uint16_t HIGH_BG_MGDL = 180;
+uint16_t HIGH_BG_MGDL = 103;
 uint16_t MIDHIGH_BG_MGDL = 240;
 uint16_t BIGHIGH_BG_MGDL = 300;
 static const uint16_t SHOWHIGH_BG_MGDL = 400;
